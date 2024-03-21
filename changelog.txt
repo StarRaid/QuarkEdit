@@ -1,1 +1,2 @@
-- Fix crash with optifine
+- Fixed hammer losing variant info when switching block
+- Fixed hammer on slabs making double slabs
